@@ -1,3 +1,3 @@
 # Nolan-Coding-Portfolio
 
-this is my read me
+This is my coding portfolio of some of my projects that I have done over the past two years of taking computer science at Cannon.
